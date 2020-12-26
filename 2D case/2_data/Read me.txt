@@ -1,0 +1,2 @@
+The training and testing datasets for this case are available at:
+https://figshare.com/articles/dataset/Data_for_TgNN_surrogate/13488798
